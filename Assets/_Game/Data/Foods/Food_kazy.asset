@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69da9655013494041a12cf2e06cdfadb, type: 3}
+  m_Name: Food_kazy
+  m_EditorClassIdentifier: KazakhNinja::KazakhNinja.FoodDefinition
+  id: kazy
+  nameKk: "\u049A\u0430\u0437\u044B"
+  nameRu: "\u041A\u0430\u0437\u044B"
+  nameEn: Kazy
+  factRu: "\u0420\u0451\u0431\u0435\u0440\u043D\u043E\u0435 \u043C\u044F\u0441\u043E
+    \u043A\u043E\u043D\u0438\u043D\u044B \u0432\u043C\u0435\u0441\u0442\u0435 \u0441
+    \u0436\u0438\u0440\u043E\u043C, \u0443\u043B\u043E\u0436\u0435\u043D\u043D\u043E\u0435
+    \u0432 \u043A\u0438\u0448\u043A\u0443, \u2014 \u0441\u0430\u043C\u044B\u0439
+    \u043F\u043E\u0447\u0451\u0442\u043D\u044B\u0439 \u0434\u0435\u043B\u0438\u043A\u0430\u0442\u0435\u0441
+    \u0434\u0430\u0441\u0442\u0430\u0440\u0445\u0430\u043D\u0430."
+  factKk: "\u0416\u044B\u043B\u049B\u044B\u043D\u044B\u04A3 \u049B\u0430\u0431\u044B\u0440\u0493\u0430
+    \u0435\u0442\u0456\u043D \u043C\u0430\u0439\u044B\u043C\u0435\u043D \u0431\u0456\u0440\u0433\u0435
+    \u0456\u0448\u0435\u043A\u043A\u0435 \u0441\u0430\u043B\u044B\u043F \u0436\u0430\u0441\u0430\u0439\u0434\u044B
+    \u2014 \u0434\u0430\u0441\u0442\u0430\u0440\u0445\u0430\u043D\u043D\u044B\u04A3
+    \u0435\u04A3 \u049B\u04B1\u0440\u043C\u0435\u0442\u0442\u0456 \u0430\u0441\u044B."
+  factEn: "Horse rib meat with its fat, packed into a casing \u2014 the most honoured
+    delicacy of the dastarkhan."
+  mesh: {fileID: -5426158948393695385, guid: f73c2098e2135470a992f6fe447d353e, type: 3}
+  skinMaterials:
+  - {fileID: 2100000, guid: ff0b95915bbfe419297b37708231eb51, type: 2}
+  insideMaterial: {fileID: 2100000, guid: d80f3f4a46bd0486998b802b0927486a, type: 2}
+  scale: {x: 1, y: 1, z: 1}
+  sliceStyle: 0
+  juiceColor: {r: 0.8509804, g: 0.2, b: 0.16470589, a: 1}
+  juiceColor2: {r: 1, g: 0.92941177, b: 0.8392157, a: 1}
+  attachmentPrefab: {fileID: 0}
+  icon: {fileID: 21300000, guid: d4c17fb74691f4787be0dfbd57ebb954, type: 3}
+  kind: 0
+  points: 1
+  spawnWeight: 1
+  hitRadius: 0
+  maxHits: 10
+  holdDuration: 2
+  powerUp: 0
+  powerUpDuration: 5

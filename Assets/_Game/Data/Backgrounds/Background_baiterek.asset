@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f769a772ac93c43e0b6148de02e95bce, type: 3}
+  m_Name: Background_baiterek
+  m_EditorClassIdentifier: KazakhNinja::KazakhNinja.BackgroundDefinition
+  id: baiterek
+  nameKk: "\u0411\u04D9\u0439\u0442\u0435\u0440\u0435\u043A"
+  nameRu: "\u0411\u0430\u0439\u0442\u0435\u0440\u0435\u043A"
+  picture: {fileID: 2800000, guid: 9e0ad471c40bd40f6af93e2dce3e3111, type: 3}
+  lightColor: {r: 0.85, g: 0.9, b: 1, a: 1}
+  lightIntensity: 0.95
+  ambientColor: {r: 0.36, g: 0.38, b: 0.55, a: 1}
+  rimColor: {r: 1, g: 0.78, b: 0.4, a: 1}
+  reflectTop: {r: 0.38, g: 0.42, b: 0.72, a: 1}
+  reflectBottom: {r: 0.28, g: 0.2, b: 0.12, a: 1}
+  ambientPrefab: {fileID: 398183146615229281, guid: c9fecacfb034f499786357bc3a1a11b9, type: 3}

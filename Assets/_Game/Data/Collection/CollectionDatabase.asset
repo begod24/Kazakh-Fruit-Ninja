@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8acd8f766d45d4d989827fc80c527d4e, type: 3}
+  m_Name: CollectionDatabase
+  m_EditorClassIdentifier: KazakhNinja::KazakhNinja.CollectionDatabase
+  cards:
+  - {fileID: 11400000, guid: 281cf6b8759db409786b671439f7b77b, type: 2}
+  - {fileID: 11400000, guid: ac53f2919a239438d858651b7c24d997, type: 2}
+  - {fileID: 11400000, guid: e4c2f9ca0321444e3a9de7c4802f915e, type: 2}
+  - {fileID: 11400000, guid: b9ae104bf6dc2445aae4198d6fab653e, type: 2}
+  - {fileID: 11400000, guid: 8da4fa26ef6894efcab65bffc2413747, type: 2}
+  - {fileID: 11400000, guid: 7061d2d34c22d4708b76a8252ec4ebad, type: 2}
+  - {fileID: 11400000, guid: ad2578415be9949b38185f008b59f997, type: 2}
+  - {fileID: 11400000, guid: 8dc523a4045f14fcba8d4bd994c62673, type: 2}
+  - {fileID: 11400000, guid: 18946b74c81a249c6b936cb5d7b7aa12, type: 2}
+  - {fileID: 11400000, guid: 9c6a6a4f888514e148142babc0bfb9c3, type: 2}
+  - {fileID: 11400000, guid: 28a0d4f56a22840ae97ec74e1c2d9880, type: 2}
+  - {fileID: 11400000, guid: b03125b50bcab4204b8e0a48f3550497, type: 2}
+  - {fileID: 11400000, guid: c4c1d9c2d6b6446a68deafd7666a1e28, type: 2}
+  - {fileID: 11400000, guid: 15c12126eb1934756ae9ea411afc8ecf, type: 2}
+  thresholds: 0a00000064000000f4010000
+  blades:
+  - {fileID: 11400000, guid: 0ccbfd6abc41347308df10ace3258698, type: 2}
+  - {fileID: 11400000, guid: bb2c90115c8cf434ea822aea1ae2158c, type: 2}
+  - {fileID: 11400000, guid: b159b9748ffd24a6f9f0fb41d25094b2, type: 2}
+  - {fileID: 11400000, guid: 3fd670bd5798b42f089e773cd637f7ba, type: 2}
+  - {fileID: 11400000, guid: 8f6e7e82e6f434a0eb34654d3fb67a92, type: 2}
+  - {fileID: 11400000, guid: 1097cf7eaaefa40188c48ad7f04b6f7e, type: 2}
+  - {fileID: 11400000, guid: f19bcb479cefb41e2ae2397f2fcd108f, type: 2}
